@@ -123,3 +123,12 @@ section{
     opacity: 1;
     pointer-events:all;
 }
+
+button {
+    cursor: pointer ;
+}
+
+button:hover{
+    background: #ffff;
+    color:black;
+}
